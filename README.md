@@ -34,14 +34,21 @@ https://c.runoob.com/
 https://jsoneditoronline.org/  
 
 ## 在线编程
-[在线JS\HTML\CSS](https://jsrun.net/) 在线的前端代码平台  
+**sql**  
 [在线DB](https://www.db-fiddle.com/) DB sql验证平台  
+
+**前端**  
+[在线JS\HTML\CSS](https://jsrun.net/) 在线的前端代码平台  
+
+**python**  
 [在线python和机器学习](https://colab.research.google.com/) 机器学习和python学习  
 
+
+**markdown**  
 [在线markdown](https://stackedit.io/app#)  在线编辑和预览markdown
 
-
-https://playcode.io/  
+**其他**  
+[PlayCode](https://playcode.io/) 一个在线编程网站。  
 
 
 
@@ -50,11 +57,13 @@ https://playcode.io/
 [Ray](https://ray.so/) 帮助你生成漂亮的代码截图。
 
 ## 其他
-[Readme](https://readme.so/"") 帮助你生成readme文件，按步骤填写即可。  
-[Coolors](https://coolors.co/) 生成符合设计师审美的配色。
+[Readme生成器](https://readme.so) 帮助你生成readme文件，按步骤填写即可。 
+[推荐的Readme模板](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#project-title)一份比较推荐的Readme文档模板。  
+[Coolors生成器](https://coolors.co) 生成符合设计师审美的配色。
 
 
 
 ## 英语
+
 
 

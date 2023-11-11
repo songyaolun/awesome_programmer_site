@@ -1,6 +1,9 @@
 # awesome_programmer_site
 各种有用的和编程相关的棒棒网站
 
+
+[![](https://img.shields.io/badge/zhihu-@yolen-blue.svg?style=flat)](https://www.zhihu.com/people/ba-mo-jue)
+
 ## Table of Contents
 
 - [个人提升](#个人提升)

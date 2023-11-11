@@ -3,8 +3,18 @@
 
 
 
+
+## 个人提升
+[leetcode.cn](https://leetcode.cn/)
+
+
+## 新闻论坛
+https://www.emergentmind.com/
+
 ## 工具集合
-https://c.runoob.com/
+https://c.runoob.com/  
+
+https://jsoneditoronline.org/  
 
 ## 在线编程
 [在线JS\HTML\CSS](https://jsrun.net/) 在线的前端代码平台  
@@ -12,6 +22,11 @@ https://c.runoob.com/
 [在线python和机器学习](https://colab.research.google.com/) 机器学习和python学习  
 
 [在线markdown](https://stackedit.io/app#)  在线编辑和预览markdown
+
+
+https://playcode.io/  
+
+
 
 
 ## 代码截图

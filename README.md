@@ -21,9 +21,16 @@
 ## 个人提升
 [leetcode.cn](https://leetcode.cn/)
 
+https://github.com/freeCodeCamp/freeCodeCamp
+https://www.freecodecamp.org/chinese/learn
+
+
+
 
 ## 新闻论坛
 https://www.emergentmind.com/
+
+
 
 ## 工具集合
 
@@ -38,10 +45,10 @@ https://jsoneditoronline.org/
 [在线DB](https://www.db-fiddle.com/) DB sql验证平台  
 
 **前端**  
-[在线JS\HTML\CSS](https://jsrun.net/) 在线的前端代码平台  
+[在线JS\HTML\CSS](https://jsrun.net) 在线的前端代码平台  
 
 **python**  
-[在线python和机器学习](https://colab.research.google.com/) 机器学习和python学习  
+[在线python和机器学习](https://colab.research.google.com) 机器学习和python学习  
 
 
 **markdown**  
@@ -54,7 +61,9 @@ https://jsoneditoronline.org/
 
 
 ## 代码截图
-[Ray](https://ray.so/) 帮助你生成漂亮的代码截图。
+[Ray](https://ray.so) 帮助你生成漂亮的代码截图。
+https://codeimg.io
+
 
 ## 其他
 [Readme生成器](https://readme.so) 帮助你生成readme文件，按步骤填写即可。 

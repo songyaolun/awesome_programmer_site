@@ -4,6 +4,7 @@
 
 [![](https://img.shields.io/badge/zhihu-@yolen-blue.svg?style=flat)](https://www.zhihu.com/people/ba-mo-jue)
 
+## 目录
 <!--ts-->
 * [awesome_programmer_site](#awesome_programmer_site)
    * [目录](#目录)
@@ -22,24 +23,8 @@
 
 <!-- Created by https://github.com/ekalinin/github-markdown-toc -->
 <!-- Added by: runner, at: Mon Nov 13 14:48:52 UTC 2023 -->
-
 <!--te-->
 
-
-## 目录
-
-- [目录](#目录)
-- [个人提升](#个人提升)
-- [编程语言](#编程语言)
-- [技术文档](#技术文档)
-- [新闻论坛](#新闻论坛)
-- [工具集合](#工具集合)
-	- [通用](#通用)
-  - [json](#json)
-- [在线编程](#在线编程)
-- [代码截图](#代码截图)
-- [其他](#其他)
-- [英语](#英语)
 
 
 ## 个人提升
@@ -68,9 +53,16 @@ https://rust-book.cs.brown.edu/
 
 ## 新闻论坛
 https://www.emergentmind.com  
+https://news.ycombinator.com
+https://www.lennysnewsletter.com
+https://www.edge.org
+https://www.emergentmind.com/  GPT4解释的人工智能新闻。
+https://www.teamblind.com 北美职场吐槽网站。
+https://bensbites.beehiiv.com
+https://dev.to
+https://www.infoq.com/
 
 
-## 测试toc
 
 
 
